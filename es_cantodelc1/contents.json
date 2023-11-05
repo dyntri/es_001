@@ -1,0 +1,30 @@
+[
+  {
+    "file": "01",
+    "title": "SECCIÓN I"
+  },
+    {
+        "file": "02",
+        "title": "SECCIÓN II"
+    },
+    {
+        "file": "03",
+        "title": "SECCIÓN III"
+    },
+    {
+        "file": "04",
+        "title": "SECCIÓN IV"
+    },
+    {
+        "file": "05",
+        "title": "SECCIÓN V"
+    },
+    {
+        "file": "06",
+        "title": "SECCIÓN VI"
+    },
+    {
+        "file": "07",
+        "title": "SECCIÓN VII"
+    }
+]
